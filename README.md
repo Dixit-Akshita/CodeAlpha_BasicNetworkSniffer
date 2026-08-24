@@ -35,6 +35,7 @@ The project uses **Scapy** to capture and analyze IP network packets and display
 ```text
 CodeAlpha_BasicNetworkSniffer/
 │
+├── README.md
 ├── network_sniffer.py
 ├── requirements.txt
 └── Screenshots/
@@ -111,6 +112,10 @@ Through this project, I gained practical understanding of:
 ## 🏁 Conclusion
 
 This project provided hands-on experience in capturing and analyzing live network traffic. It helped build a practical understanding of how packets travel through a network and how protocol and packet-level information can be used for basic network analysis.
+
+---
+
+[Click to watch the Project Explanation on LinkedIn](https://lnkd.in/p/dE9vgvnF)
 
 ---
 

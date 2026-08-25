@@ -115,7 +115,7 @@ This project provided hands-on experience in capturing and analyzing live networ
 
 ---
 
-[Click here watch the Project Explanation on LinkedIn](https://lnkd.in/p/dE9vgvnF)
+[Click here to watch the Project Explanation on LinkedIn](https://lnkd.in/p/dE9vgvnF)
 
 ---
 
